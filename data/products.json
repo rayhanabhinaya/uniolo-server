@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Fleece Full-Zip Long Sleeve Jacket (Color Block)",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "399000",
+    "stock": "50",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462028/item/goods_07_462028.jpg?width=750",
+    "categoryId": "4",
+    "authorId": "1"
+  },
+  {
+    "name": "Oversized Striped Half Sleeve T-Shirt (Wide)",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "249000",
+    "stock": "20",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461380/item/goods_69_461380.jpg?width=750",
+    "categoryId": "4",
+    "authorId": "1"
+  },
+  {
+    "name": "AIRism Polo Shirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "299000",
+    "stock": "30",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/466821/item/idgoods_11_466821.jpg?width=750",
+    "categoryId": "8",
+    "authorId": "1"
+  },
+  {
+    "name": "EZY Ultra Stretch Jeans",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "1000000",
+    "stock": "40",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/455476/sub/idgoods_455476_sub8.jpg?width=750",
+    "categoryId": "9",
+    "authorId": "3"
+  },
+  {
+    "name": "Ultra Stretch Cropped Leggings Pants",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "399000",
+    "stock": "60",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/464831/item/idgoods_00_464831.jpg?width=750",
+    "categoryId": "3",
+    "authorId": "3"
+  },
+  {
+    "name": "Smooth Cotton Relaxed Crew Neck Long Sleeve Sweater (Stripe)",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "499000",
+    "stock": "70",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/466782/item/idgoods_15_466782.jpg?width=750",
+    "categoryId": "4",
+    "authorId": "2"
+  },
+  {
+    "name": "Woven Printed Trunks",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "79000",
+    "stock": "80",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/466750/item/goods_09_466750.jpg?width=750",
+    "categoryId": "3",
+    "authorId": "3"
+  },
+  {
+    "name": "Linen Blend Camisole Dress",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "599000",
+    "stock": "90",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/464772/item/idgoods_27_464772.jpg?width=750",
+    "categoryId": "7",
+    "authorId": "2"
+  },
+  {
+    "name": "Striped Socks",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "87000",
+    "stock": "100",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/466681/item/goods_00_466681.jpg?width=750",
+    "categoryId": "10",
+    "authorId": "3"
+  },
+  {
+    "name": "Oversized Striped Crew Neck Half Sleeve T-Shirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "1200000",
+    "stock": "10",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/468879/sub/idgoods_468879_sub7.jpg?width=750",
+    "categoryId": "1",
+    "authorId": "1"
+  },
+  {
+    "name": "Coach Jacket (Graphic)",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "699000",
+    "stock": "50",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/467536/sub/goods_467536_sub15.jpg?width=750",
+    "categoryId": "4",
+    "authorId": "2"
+  },
+  {
+    "name": "Drawstring Backpack",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "559000",
+    "stock": "20",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/466920/item/goods_09_466920.jpg?width=750",
+    "categoryId": "5",
+    "authorId": "1"
+  },
+  {
+    "name": "AIRism UV Protection Mesh Long Sleeve Hoodie",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "399000",
+    "stock": "30",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/456261/item/idgoods_11_456261.jpg?width=750",
+    "categoryId": "4",
+    "authorId": "1"
+  },
+  {
+    "name": "DRY-EX Crew Neck Short Sleeve T-Shirt (Print)",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "250000",
+    "stock": "40",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/455361/item/idgoods_60_455361.jpg?width=750",
+    "categoryId": "1",
+    "authorId": "3"
+  },
+  {
+    "name": "Miracle Air (AirSense) Pleated Pants",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "499000",
+    "stock": "60",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/469313/sub/idgoods_469313_sub8.jpg?width=750",
+    "categoryId": "3",
+    "authorId": "2"
+  },
+  {
+    "name": "UV Protection Bucket Hat",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "299000",
+    "stock": "70",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462252/sub/goods_462252_sub4.jpg?width=750",
+    "categoryId": "5",
+    "authorId": "1"
+  },
+  {
+    "name": "Boston Combination Sunglasses",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "299000",
+    "stock": "80",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/463717/sub/goods_463717_sub17.jpg?width=750",
+    "categoryId": "5",
+    "authorId": "3"
+  },
+  {
+    "name": "Oval Cat Sunglasses",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "299000",
+    "stock": "90",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/466247/item/goods_34_466247.jpg?width=750",
+    "categoryId": "5",
+    "authorId": "2"
+  },
+  {
+    "name": "Parachute Cargo Shorts",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "400000",
+    "stock": "100",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/467159/sub/goods_467159_sub14.jpg?width=750",
+    "categoryId": "11",
+    "authorId": "3"
+  },
+  {
+    "name": "Rayon Blend Striped Long Sleeve Shirt Dress",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.",
+    "price": "600000",
+    "stock": "10",
+    "imgUrl": "https://image.uniqlo.com/UQ/ST3/id/imagesgoods/465968/sub/idgoods_465968_sub8.jpg?width=750",
+    "categoryId": "7",
+    "authorId": "1"
+  }
+]
